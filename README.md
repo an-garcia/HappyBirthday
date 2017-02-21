@@ -1,7 +1,7 @@
 Happy Birthday
 ========
 
-![alt tag](https://github.com/an-garcia/HappyBirthday/blob/master/readmeImages/Screenshot_1481838033.png)
+![Scheme](/readmeImages/Screenshot_1481838033.png)
 
 Android happy birthday card maker.
 
